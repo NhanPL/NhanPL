@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21925
-Fork on GitHub
-6975
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Dao Van Nhan</h1>
 <h3 align="center">I am a passionate frontend developer from Vietnam with 2 years of experience in building dynamic and user-friendly web applications. I specialize in creating seamless user experiences through modern technologies and a keen eye for design and functionality.</h3>
 
